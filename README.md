@@ -1,2 +1,2 @@
 # Prog2
-Prog2 projekt + gyak
+Prog2 gyak
